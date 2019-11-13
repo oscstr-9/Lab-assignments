@@ -1,0 +1,9 @@
+I knew pretty much nothing to begin with so most of the things in this lab are new to me which taught me alot.
+Because of this some things where a bit difficult at first such as, printf_s and scanf_s.
+But to learn anything I didn't know I just googled it, read lecture notes or asked classmates.
+I found the lab itself to be very good by testing a wide veriety of things.
+The biggest issue I had to get over was getting the required programs to work. 
+It took me atleast 8 hours just to try to get everything to work
+and in the end github still doesn't work propperly with syncing for me.
+
+In total I've probably spent atleast 25 hours on the lab, (not counting the trouble with the git and visual studio), mostly because I knew barely anything about c++ going into it.
